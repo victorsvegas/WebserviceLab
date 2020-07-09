@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    }
+.header 
+    {
+      overflow:hidden;
+      background-color:#5288f4;
+      color: darkgrey;
+      justify-content: center;
+    }
+.container
+    {
+      width:50%;
+      margin: auto;
+    }
+    
+ul
+  {
+    width: 120%;
+    float: left;
+    padding: 0;
+    text-align: right;
+    margin-top: 10px;
+  }
+ul a
+    {
+      text-decoration: none;
+      color:#fff;
+      margin-right: 200px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 30px;
+      margin-top: 0px;
+    }
+
+    table
+    {
+      text-align: left;
+      margin-top: 40px;
+      margin-bottom: 20px;
+      margin: auto;
+    }
+    td{
+      text-align: left;
+      width: 300px;
+      padding: 15px;
+      
+    }
+.td1
+{
+      text-align: center;
+      width: 300px;
+      padding: 15px;
+    }
+.td2
+{
+      text-align: center;
+      width: 500px;
+      padding: 15px;
+    }
+th
+{ 
+      padding-bottom: 15px;
+      margin-top: 15px;
+      border-bottom: 1px solid #88acf5;
+      text-align: center;
+      font-size: 30px;
+      text-align: center;
+    }
+     
+tr:nth-child(even) {background-color: #a6c3fd;} 
+
+h1
+  {
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    color: #5288f4;
+  }
+.desc
+{
+  font-weight: bold;
+}
+.imgHeader
+{
+  width: 90%;
+  
+}
+.imgSuper
+{
+  width: 30%;
+}
+.imgComp
+{
+  margin-top: 35px;
+  width: 40%;
+}
+.center
+{
+  display: block;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.tableHolder
+{
+  margin-bottom: 20px;
+  margin-top: 15px;
+}
